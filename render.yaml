@@ -16,7 +16,7 @@ services:
     name: smarthr-web
     runtime: static
     buildCommand: cd frontend && npm install && npm run build
-    publishPath: frontend/dist
+    staticPublishPath: frontend/dist
     routes:
       # Proxy all /api requests to the backend service
       # NOTE: After your first deployment, replace 'smarthr-api.onrender.com' 

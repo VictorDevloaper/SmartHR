@@ -1,0 +1,30 @@
+[
+    {
+        "id_funcionario": 201,
+        "departamento": "Suporte Técnico",
+        "salario_base": 3500.0,
+        "horas_extras": 2500.0,
+        "descontos": 150.0
+    },
+    {
+        "id_funcionario": 202,
+        "departamento": "Suporte Técnico",
+        "salario_base": 3500.0,
+        "horas_extras": 2800.0,
+        "descontos": 150.0
+    },
+    {
+        "id_funcionario": 203,
+        "departamento": "Suporte Técnico",
+        "salario_base": 3800.0,
+        "horas_extras": 3100.0,
+        "descontos": 180.0
+    },
+    {
+        "id_funcionario": 204,
+        "departamento": "Vendas",
+        "salario_base": 4000.0,
+        "horas_extras": 200.0,
+        "descontos": 200.0
+    }
+]

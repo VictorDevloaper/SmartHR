@@ -1,0 +1,37 @@
+[
+    {
+        "id_funcionario": 301,
+        "departamento": "Diretoria",
+        "salario_base": 45000.0,
+        "horas_extras": 0.0,
+        "descontos": 2500.0
+    },
+    {
+        "id_funcionario": 302,
+        "departamento": "Diretoria",
+        "salario_base": 42000.0,
+        "horas_extras": 0.0,
+        "descontos": 2300.0
+    },
+    {
+        "id_funcionario": 303,
+        "departamento": "Operações",
+        "salario_base": 3000.0,
+        "horas_extras": 100.0,
+        "descontos": 100.0
+    },
+    {
+        "id_funcionario": 304,
+        "departamento": "Operações",
+        "salario_base": 2800.0,
+        "horas_extras": 50.0,
+        "descontos": 80.0
+    },
+    {
+        "id_funcionario": 305,
+        "departamento": "Operações",
+        "salario_base": 2800.0,
+        "horas_extras": 80.0,
+        "descontos": 80.0
+    }
+]

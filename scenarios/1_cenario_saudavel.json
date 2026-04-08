@@ -1,0 +1,37 @@
+[
+    {
+        "id_funcionario": 101,
+        "departamento": "Desenvolvimento",
+        "salario_base": 8500.0,
+        "horas_extras": 0.0,
+        "descontos": 500.0
+    },
+    {
+        "id_funcionario": 102,
+        "departamento": "Desenvolvimento",
+        "salario_base": 7800.0,
+        "horas_extras": 300.0,
+        "descontos": 450.0
+    },
+    {
+        "id_funcionario": 103,
+        "departamento": "Marketing",
+        "salario_base": 6000.0,
+        "horas_extras": 0.0,
+        "descontos": 300.0
+    },
+    {
+        "id_funcionario": 104,
+        "departamento": "Marketing",
+        "salario_base": 5500.0,
+        "horas_extras": 150.0,
+        "descontos": 250.0
+    },
+    {
+        "id_funcionario": 105,
+        "departamento": "RH",
+        "salario_base": 7000.0,
+        "horas_extras": 0.0,
+        "descontos": 400.0
+    }
+]

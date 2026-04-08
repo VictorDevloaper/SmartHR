@@ -113,5 +113,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Desenvolvido com 💜 por <strong>Victor Melo</strong>
+  Desenvolvido por <strong>Victor Melo</strong>
 </p>
